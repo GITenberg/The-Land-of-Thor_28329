@@ -1,0 +1,28 @@
+_repo: The-Land-of-Thor_28329
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Browne, J. Ross (John Ross)
+    alias: Browne, John Ross
+    birthdate: 1821
+    deathdate: 1875
+    gutenberg_agent_id: '33272'
+    url: http://www.gutenberg.org/2009/agents/33272
+description: ''
+gutenberg_issued: '2009-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28329'
+  lccn: '04000662'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Europe, Northern -- Description and travel'
+- !lcc 'D'
+title: The Land of Thor
+url: http://www.gutenberg.org/ebooks/28329
